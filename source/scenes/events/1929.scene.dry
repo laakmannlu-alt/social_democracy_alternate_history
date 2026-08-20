@@ -2,7 +2,7 @@ title: 1929
 subtitle: A new year
 on-arrival: {!
 // see post_event.scene.dry for changes.
-Q.economic_growth -= 4;
+Q.economic_growth += 12;
 
 !}
 tags: event
@@ -10,4 +10,4 @@ view-if: year = 1929 and month = 1
 priority: 2
 max-visits: 1
 
-A new year begins. The economy appears to be slackening; unemployment is increasing throughout the republic, although for the most part, people are still doing well.
+A new year begins. The economy has been magically improving at a rapid pace.
